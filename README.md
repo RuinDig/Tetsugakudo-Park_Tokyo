@@ -1,5 +1,5 @@
 # Tetsugakudo-Park_Tokyo
-東京都中野区の哲学堂公園
+東京都中野区の哲学堂公園｜東京都中野区松が丘1-34-28
 
 ![Tetsugakudo-Park_Tokyo_01](https://user-images.githubusercontent.com/20723919/119586055-030a7e80-be07-11eb-901d-2694db0b6d84.jpg)
 
